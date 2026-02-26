@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# OS noise
+.DS_Store
+data/output/
